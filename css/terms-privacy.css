@@ -1,0 +1,21 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+h2 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 60px;
+    color: hsl(42, 81%, 46%);
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #544f4fcd;
+}
+h3 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
